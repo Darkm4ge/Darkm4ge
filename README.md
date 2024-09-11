@@ -1,5 +1,6 @@
 ### Olá👋
 🔭 NLP
+🌱 I’m currently learning Cloud Solution Architect
 <!--
 **Darkm4ge/Darkm4ge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
